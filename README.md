@@ -1,4 +1,9 @@
 # rebilly-nodejs-basic
+
+---
+Since this repo was created, Rebilly has created an official JS SDK: https://github.com/Rebilly/rebilly-js-sdk
+---
+
 Basic demonstration of using the Rebilly API with Axios (HTTP Client) and an abstraction layer. The [wrapper](lib/api.js) handles the API authentication using the `REB-APIKEY` and exposes Axios request methods and a few other useful features like pagination headers. See the contents of the [main script](index.js) to view an example of how to use the Rebily API in Node JS.
 
 ## Setup
